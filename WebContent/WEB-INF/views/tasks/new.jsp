@@ -9,7 +9,6 @@
         </form>
 
 
-        <button type="submit">投稿</button>
 
         <p><a href="${pageContext.request.contextPath}/index">一覧に戻る</a></p>
 
